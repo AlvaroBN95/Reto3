@@ -233,7 +233,7 @@ public static void main(String[] args) {
                 limpiar();
             }
             cont++;
-            
+            //finalizado
             Trabajador t1=new Trabajador(pideNom(),pideNif(),pideGrupProf(),pideGrupCot(),pideNafSS(),pideFecAnt(),pidePerLiq());
             //Trabajador t1=new Trabajador();
             Empresa e1=new Empresa();
